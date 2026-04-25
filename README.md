@@ -1,18 +1,17 @@
-# NeetCode Solutions — @ozodbek-bosimov
+# NeetCode Solutions
 
-NeetCode masalalariga yozilgan yechimlar to'plami.
+My personal solutions to [NeetCode](https://neetcode.io) problems.
 
-## Repo tuzilishi
+## Structure
 
 ```
-<mavzu>/
-  <masala-id>/
+<topic>/
+  <problem-slug>/
     submission-0.<ext>
     submission-1.<ext>
-    ...
 ```
 
-**Misol:**
+**Example:**
 ```
 Data Structures & Algorithms/two-integer-sum/submission-0.py
 Data Structures & Algorithms/binary-search/submission-0.ts
